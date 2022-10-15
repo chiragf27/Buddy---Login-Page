@@ -73,7 +73,7 @@ form .svgContainer div {
   width: 100%;
   height: 0;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 66%;
   padding-bottom: 100%;
 }
 form .svgContainer .mySVG {
@@ -124,7 +124,7 @@ form input[type='email'], form input[type="text"], form input[type="number"], fo
   box-sizing: border-box;
   width: 100%;
   height: 65px;
-  font-size: 1.2em;
+  font-size: 1.5em;
   color: #353538;
   font-weight: 600;
   font-family: inherit;
